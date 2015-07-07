@@ -2,7 +2,7 @@
 
 # sandbox
 
-sandbox is a _short description_. It is built with [Python][0] using the [Django Web Framework][1].
+Life is a beach and we're just playing in the sand. It is built with [Python][3.4.3] using the [Django Web Framework][1.8.2].
 
 This project has the following basic apps:
 
@@ -11,6 +11,8 @@ This project has the following basic apps:
 * App3 (short desc)
 
 ## Installation
+
+One day you shall know young padawan
 
 ### Quick start
 
